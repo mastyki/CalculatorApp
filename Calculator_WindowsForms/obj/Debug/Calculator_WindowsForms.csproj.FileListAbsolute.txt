@@ -1,0 +1,10 @@
+C:\Users\lizam\OneDrive\Рабочий стол\My progs\Calculator_WindowsForms\bin\Debug\Calculator_WindowsForms.exe.config
+C:\Users\lizam\OneDrive\Рабочий стол\My progs\Calculator_WindowsForms\bin\Debug\Calculator_WindowsForms.exe
+C:\Users\lizam\OneDrive\Рабочий стол\My progs\Calculator_WindowsForms\bin\Debug\Calculator_WindowsForms.pdb
+C:\Users\lizam\OneDrive\Рабочий стол\My progs\Calculator_WindowsForms\obj\Debug\Calculator_WindowsForms.csprojAssemblyReference.cache
+C:\Users\lizam\OneDrive\Рабочий стол\My progs\Calculator_WindowsForms\obj\Debug\Calculator_WindowsForms.Form1.resources
+C:\Users\lizam\OneDrive\Рабочий стол\My progs\Calculator_WindowsForms\obj\Debug\Calculator_WindowsForms.Properties.Resources.resources
+C:\Users\lizam\OneDrive\Рабочий стол\My progs\Calculator_WindowsForms\obj\Debug\Calculator_WindowsForms.csproj.GenerateResource.cache
+C:\Users\lizam\OneDrive\Рабочий стол\My progs\Calculator_WindowsForms\obj\Debug\Calculator_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\lizam\OneDrive\Рабочий стол\My progs\Calculator_WindowsForms\obj\Debug\Calculator_WindowsForms.exe
+C:\Users\lizam\OneDrive\Рабочий стол\My progs\Calculator_WindowsForms\obj\Debug\Calculator_WindowsForms.pdb
